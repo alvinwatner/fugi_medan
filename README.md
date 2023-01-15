@@ -16,8 +16,14 @@
      * Anggi Saputra (bloc) : [link repo](www.google.com)     
 
 
-## Coming soon
- * Tema : - 
+## Minggu, 26 Febuari 2023 (coming soon)
+ * Tema : Clean Architecture with BLOC 
+ * Presenter : Anggi Saputra
+ * Deskripsi : Implementasi clean architecture pada state management BLOC pada project Pokemon
+ * Hasil : -
+
+## Minggu, 26 Maret 2023 (coming soon)
+ * Tema : State Management GetX
  * Presenter : -
- * Deskripsi : -
+ * Deskripsi : Implementasi state management GetX pada project Pokemon
  * Hasil : -
