@@ -15,6 +15,10 @@
      * Fajri Rinaldi (provider) : [link repo](www.google.com)
      * Anggi Saputra (bloc) : [link repo](www.google.com)     
 
+<img src="https://user-images.githubusercontent.com/58515206/212534113-7317618e-a94e-45fb-89a9-ebe170a12254.gif" width="250" height="450"/>
+<!-- <img src="[/images/output/video1.gif](https://user-images.githubusercontent.com/58515206/212534113-7317618e-a94e-45fb-89a9-ebe170a12254.gif)" width="250" height="250"/> -->
+<!-- ![ezgif com-gif-maker](https://user-images.githubusercontent.com/58515206/212534113-7317618e-a94e-45fb-89a9-ebe170a12254.gif) -->
+
 
 ## Minggu, 26 Febuari 2023 (coming soon)
  * Tema : Clean Architecture with BLOC 
