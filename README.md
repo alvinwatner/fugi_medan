@@ -9,11 +9,11 @@
  * Deskripsi : Mendemonstrasikan hasil implementasi state management masing-masing peserta pada project Pokemon
  * Hasil : 
      * Alvin (bloc) : [link repo](https://github.com/alvinwatner/gtrng2_alvin)
-     * Andra Satria (provider) : [link repo](www.google.com)     
+     * Andra Satria (provider) : [link repo](https://github.com/andrapratama/pokemon-provider)     
      * Denice (provider) : [link repo](www.google.com)        
      * Steven (setState) : [link repo](www.google.com)        
      * Fajri Rinaldi (provider) : [link repo](www.google.com)
-     * Anggi Saputra (bloc) : [link repo](www.google.com)     
+     * Anggi Saputra (bloc) : [link repo](https://github.com/anggiedwarsa/pokemon)     
 
 <img src="https://user-images.githubusercontent.com/58515206/212534113-7317618e-a94e-45fb-89a9-ebe170a12254.gif" width="250" height="420"/>
 
