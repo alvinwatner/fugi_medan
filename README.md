@@ -19,14 +19,8 @@
 
 
 
-## Minggu, 26 Febuari 2023 (coming soon)
- * Tema : Clean Architecture with BLOC 
+## Minggu, 26 Febuari 2023 
+ * Tema : Clean Architecture & TDD with BLOC 
  * Presenter : Anggi Saputra
- * Deskripsi : Implementasi clean architecture pada state management BLOC pada project Pokemon
- * Hasil : -
-
-## Minggu, 26 Maret 2023 (coming soon)
- * Tema : State Management GetX
- * Presenter : -
- * Deskripsi : Implementasi state management GetX pada project Pokemon
- * Hasil : -
+ * Deskripsi : Implementasi clean architecture & TDD dengan state management BLOC pada project Pokemon
+ * Hasil : [link repo](https://github.com/anggiedwarsa/pokemon) 
