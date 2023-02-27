@@ -2,7 +2,7 @@
 
 ## Minggu, 27 November 2022
  * Tema : Perkenalan 
- <img src="https://user-images.githubusercontent.com/58515206/221460116-224fbe41-d4e6-4013-9f16-3007477ea129.png" width="370" height="370"/>
+ <img src="https://user-images.githubusercontent.com/58515206/221460116-224fbe41-d4e6-4013-9f16-3007477ea129.png" width="350" height="370"/>
 
  
 ## Minggu, 15 Januari 2023
