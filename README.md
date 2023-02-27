@@ -2,6 +2,8 @@
 
 ## Minggu, 27 November 2022
  * Tema : Perkenalan 
+ <img src="https://user-images.githubusercontent.com/58515206/221460116-224fbe41-d4e6-4013-9f16-3007477ea129.png" width="370" height="370"/>
+
  
 ## Minggu, 15 Januari 2023
  * Tema : Perang State Management  
@@ -16,6 +18,7 @@
      * Anggi Saputra (bloc) : [link repo](https://github.com/anggiedwarsa/pokemon)     
 
 <img src="https://user-images.githubusercontent.com/58515206/212534113-7317618e-a94e-45fb-89a9-ebe170a12254.gif" width="250" height="420"/>
+<img src="https://user-images.githubusercontent.com/58515206/221459556-72ad3892-9ccd-427e-92a1-6e03de0dec0f.png" width="420" height="300"/>
 
 
 
@@ -24,3 +27,4 @@
  * Presenter : Anggi Saputra
  * Deskripsi : Implementasi clean architecture & TDD dengan state management BLOC pada project Pokemon gathering #2
  * Hasil : [link repo](https://github.com/anggiedwarsa/pokemon) 
+<img src="https://user-images.githubusercontent.com/58515206/221456662-17d08641-f2ed-43cd-8143-97fb7d2c152a.png" width="420" height="300"/>
